@@ -1,10 +1,46 @@
-## 👋 Olá! Eu sou a Fulana
+<h2 align="left">👋 Olá! Eu sou a Sandyele</h2>
 
-🎓 Estudante de Tal Curso pela Universidade Estadual de Certo Estado (UECE).
+Sou acadêmica de **Engenharia de Software** pela **UEPG**, atualmente cursando o **3º semestre**.  
+Tenho interesse em desenvolvimento de software e busco oportunidades de **estágio na área de tecnologia**.
 
-💻 Tenho experiência acadêmica com lógica de programação, Python e C, além de versionamento de código com Git e GitHub.
+---
 
-📚 Atualmente estou focada em aprimorar meus conhecimentos em programação e desenvolvimento de software.
+## 📚 Sobre mim
 
-📫 Contato:
-- LinkedIn: https://linkedin.com/in/FULANA
+- Interesse em **back-end**, **banco de dados** e **automação**
+- Atualmente focada em **Python** e **SQL**
+
+---
+
+## 💻 Conhecimentos
+
+### Linguagens
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" />
+</div>
+
+### Banco de Dados
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+</div>
+
+### Ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" />
+</div>
+
+---
+
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/sandyelesevero  
+- GitHub: https://github.com/ssandyele
